@@ -1,0 +1,4 @@
+*.o
+netns-exec
+compile_commands.json
+.cache
